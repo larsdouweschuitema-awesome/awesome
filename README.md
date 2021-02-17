@@ -12,6 +12,7 @@ List of useful resources related to Scrum and Engineering
 - https://developers.google.com/web/fundamentals/performance/get-started
 - https://perf-track.web.app/
 - https://web.dev/vitals/
+- https://developers.google.com/speed/pagespeed/insights/
 
 ### Blogs
 
