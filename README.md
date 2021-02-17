@@ -8,6 +8,10 @@ List of useful resources related to Scrum and Engineering
 
 ## Engineering
 
+### Performance
+- https://perf-track.web.app/
+- https://web.dev/vitals/
+
 ### Blogs
 
 - https://blog.picnic.nl/
