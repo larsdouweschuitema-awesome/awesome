@@ -21,3 +21,4 @@ List of useful resources related to Scrum and Engineering
 - https://eng.uber.com/
 - https://worth.systems/our-insights
 - https://dzone.com/
+- https://blog.mirabeau.nl/
